@@ -131,3 +131,7 @@ dmypy.json
 # API key
 roadapikey.txt
 kakaoapikey.txt
+
+# Gillreunt add
+exercise.ipynb
+chromedriver.exe
